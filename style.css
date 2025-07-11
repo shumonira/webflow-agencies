@@ -71,6 +71,36 @@ nav li {
 .button-focused {
   text-align: center;
 }
+main {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.webflow {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 116px;
+}
+.launch-live {
+  padding-top: 62.5px;
+}
+.h4-title {
+  font-size: 42px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.launch-text {
+  padding-top: 10px;
+  font-size: 24px;
+  color: #252432;
+  opacity: 50%;
+}
+
+.web-conf {
+  width: 403px;
+  height: 328px;
+  background-image: url(images/wc-mini.png);
+  border-radius: 48px;
+}
 .get-in-touch {
   display: flex;
 }
