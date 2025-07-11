@@ -171,8 +171,47 @@ main {
   max-width: 840px;
   height: 364.77px;
   margin: 0 auto;
+
   border-radius: 48px;
+}
+/* lets get in touch section */
+.lets-get-in-touch {
+  margin-top: 92px;
 }
 .get-in-touch {
   display: flex;
+  justify-content: space-between;
+}
+.in-touch-title {
+  font-size: 97px;
+}
+.label-text {
+  font-size: 18px;
+  font-weight: 700;
+}
+.form-textbox {
+  width: 497px;
+  height: 70px;
+  margin: 10px 0;
+  padding-left: 20px;
+  border-radius: 10px;
+  font-size: 20px;
+
+  border-style: none;
+}
+
+.form-textarea {
+  width: 497px;
+  height: 135px;
+  margin: 10px 0;
+  padding-top: 15px;
+  padding-left: 20px;
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: 400;
+  border-style: none;
+}
+.btn-get-in-touch {
+  width: 520px;
+  padding: 19px;
 }
